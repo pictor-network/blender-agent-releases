@@ -1,8 +1,0 @@
-﻿version: 0.1.0
-files:
-  - url: blender-agent-win-x64-0.1.0.exe
-    sha512: ATMZTj/Xx0bxm6ZkmAXOnYvH8qrKn4X2R8qhwZ/0MzvZxKfHwx1RKQJXQ4rDTDN7/WNlOmbvx/rZrhFN4S8cSQ==
-    size: 218730768
-path: blender-agent-win-x64-0.1.0.exe
-sha512: ATMZTj/Xx0bxm6ZkmAXOnYvH8qrKn4X2R8qhwZ/0MzvZxKfHwx1RKQJXQ4rDTDN7/WNlOmbvx/rZrhFN4S8cSQ==
-releaseDate: '2026-06-05T03:48:49.237Z'
